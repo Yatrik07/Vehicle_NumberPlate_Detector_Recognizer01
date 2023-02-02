@@ -1,0 +1,13 @@
+flask
+numpy
+pandas
+bs4
+torch
+flask_cors
+tensorflow
+matplotlib
+seaborn
+easyocr
+pytesseract
+opencv-python==4.5.5.64
+tqdm
