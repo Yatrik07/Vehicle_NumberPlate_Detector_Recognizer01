@@ -4,8 +4,7 @@
     "description": "",
       "main": "app.py",
     "scripts": {
-        "build": "echo \"No build specified\" && exit 1",
-        "test": "echo \"No test specified\" && exit 1",
+        "build": "pip install -r requirements.txt",
         "start": "python app.py"
     },
     "repository": {
