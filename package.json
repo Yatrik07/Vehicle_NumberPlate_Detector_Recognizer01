@@ -1,0 +1,20 @@
+{
+    "name": "Vehicle_NumberPlate_Detector_Recognizer01",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "python app.py"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Yatrik07/Vehicle_NumberPlate_Detector_Recognizer01.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Yatrik07/Vehicle_NumberPlate_Detector_Recognizer01/issues"
+    },
+    "homepage": "https://github.com/Yatrik07/Vehicle_NumberPlate_Detector_Recognizer01#readme"
+}
